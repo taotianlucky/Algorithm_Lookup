@@ -1,5 +1,6 @@
 #include <stdio.h>
-int Search(int a[],int n,int k);
+int Search(int a[],int n,int k);					// 顺序查找法
+int Bsearch(int R[], int low, int high, int k);		// 折半查找法
 int main() {
 
 	int a[] = { 1,3,2,6 };
