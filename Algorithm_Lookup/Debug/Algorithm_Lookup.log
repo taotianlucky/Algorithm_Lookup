@@ -1,2 +1,4 @@
 ﻿  main.cpp
+f:\wenxuan\documents\cpp\algorithm_lookup\algorithm_lookup\main.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  LINK : 没有找到 F:\wenxuan\Documents\CPP\Algorithm_Lookup\Debug\Algorithm_Lookup.exe 或上一个增量链接没有生成它；正在执行完全链接
   Algorithm_Lookup.vcxproj -> F:\wenxuan\Documents\CPP\Algorithm_Lookup\Debug\Algorithm_Lookup.exe
